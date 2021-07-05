@@ -1,5 +1,5 @@
 import React from 'react';
-import OpacityAnim from './src/AbsoluteAnim';
+import OpacityAnim from './src/WidthHeightPercAnim';
 
 const App = ({params}) => <OpacityAnim />;
 
